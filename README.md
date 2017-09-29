@@ -12,3 +12,4 @@
 
 #### Use with
 1. [Nohat-effects](https://github.com/xJeebsx/Headsfeet)
+2. [surfaceproperties.txt](http://drok-radnik.com/junk/surfaceproperties.txt) Upload in `..Steam\steamapps\common\Team Fortress 2\tf\scripts`
