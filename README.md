@@ -1,5 +1,5 @@
 # tf2cfg
-Comanglia's Config toaster cfg with my fix
+Comanglia's toaster cfg with my fix
 
 #### Installation
 
