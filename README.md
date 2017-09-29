@@ -11,5 +11,13 @@
 -high -w 1024 -h 768  -novid +exec autoexec.cfg -noforcemaccel -noforcemspd -useforcedmparms
 
 #### Use with
-1. [Nohat-effects](https://github.com/xJeebsx/Headsfeet)
-2. [surfaceproperties.txt](http://drok-radnik.com/junk/surfaceproperties.txt) Upload in `..Steam\steamapps\common\Team Fortress 2\tf\scripts`
+
+* [Nohat-effects](https://github.com/xJeebsx/Headsfeet)
+* [no-explosion-smoke-script](https://drive.google.com/file/d/0B_loCHMSRedyb1VqV3R1SnRwVHM/view) 
+i use this, but u can get that u want [No explosion smoke script](http://www.teamfortress.tv/25647/no-explosion-smoke-script)
+Upload in `..\Steam\steamapps\common\Team Fortress 2\tf\custom` 
+
+#### Sctipt
+
+* [surfaceproperties.txt](http://drok-radnik.com/junk/surfaceproperties.txt) 
+Upload in `..Steam\steamapps\common\Team Fortress 2\tf\scripts`
