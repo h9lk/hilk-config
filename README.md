@@ -18,7 +18,7 @@ i use this, but u can get that u want [No explosion smoke script](http://www.tea
 
 Upload in `..\Steam\steamapps\common\Team Fortress 2\tf\custom` 
 
-#### Sctipt
+#### Script
 
 * [surfaceproperties.txt](http://drok-radnik.com/junk/surfaceproperties.txt) 
 Upload in `..Steam\steamapps\common\Team Fortress 2\tf\scripts`
