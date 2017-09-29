@@ -15,6 +15,7 @@
 * [Nohat-effects](https://github.com/xJeebsx/Headsfeet)
 * [no-explosion-smoke-script](https://drive.google.com/file/d/0B_loCHMSRedyb1VqV3R1SnRwVHM/view) 
 i use this, but u can get that u want [No explosion smoke script](http://www.teamfortress.tv/25647/no-explosion-smoke-script)
+
 Upload in `..\Steam\steamapps\common\Team Fortress 2\tf\custom` 
 
 #### Sctipt
