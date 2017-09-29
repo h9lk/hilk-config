@@ -1,5 +1,5 @@
 # tf2cfg
-Comanglia's toaster cfg with my fix
+[Comanglia's toaster cfg](http://www.teamfortress.tv/25328/comanglia-s-config-fps-guide) with my changes
 
 #### Installation
 
