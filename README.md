@@ -10,6 +10,8 @@
 ### Steam launch options 
 -high -w 1024 -h 768  -novid +exec autoexec.cfg -noforcemaccel -noforcemspd -useforcedmparms
 
+[Read about options](https://developer.valvesoftware.com/wiki/Command_Line_Options#Steam_.28Windows.29)
+
 ### Use with
 
 * [Nohat-effects](https://github.com/xJeebsx/Headsfeet)
