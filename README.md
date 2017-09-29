@@ -11,4 +11,4 @@ Comanglia's Config toaster cfg with my fix
 -high -w 1024 -h 768  -novid +exec autoexec.cfg -noforcemaccel -noforcemspd -useforcedmparms
 
 #### Use with
-1. [Nohay-effects](https://github.com/xJeebsx/Headsfeet)
+1. [Nohat-effects](https://github.com/xJeebsx/Headsfeet)
