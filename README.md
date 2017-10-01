@@ -12,9 +12,9 @@
 
 [Read about options](https://developer.valvesoftware.com/wiki/Command_Line_Options#Steam_.28Windows.29)
 
-### Use with
+### Custom
 
-* [Nohat-effects](https://github.com/xJeebsx/Headsfeet)
+* [Nohat-effects](https://github.com/xJeebsx/Headsfeet) or [NoHatMod](https://github.com/xJeebsx/No-Hats-Mod)
 * [no-explosion-smoke-script](https://drive.google.com/file/d/0B_loCHMSRedyb1VqV3R1SnRwVHM/view) 
 i use this, but u can get that u want [No explosion smoke script](http://www.teamfortress.tv/25647/no-explosion-smoke-script)
 
