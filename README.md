@@ -22,6 +22,6 @@ Upload in `..\Steam\steamapps\common\Team Fortress 2\tf\custom`
 
 ### Script
 
-* [surfaceproperties.txt](http://drok-radnik.com/junk/surfaceproperties.txt) 
+* [surfaceproperties.txt](http://drok-radnik.com/junk/surfaceproperties.txt) , last update Oct 9th, 2016 
 
 Upload in `..Steam\steamapps\common\Team Fortress 2\tf\scripts`
