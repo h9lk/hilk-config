@@ -1,4 +1,5 @@
 //Official valve manual
+//Please read this before use custom files 
 
 When the game boots, this folder is automatically scanned for VPK files or
 subfolders. Each subfolder or VPK is added as a search path, so the files
