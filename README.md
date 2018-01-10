@@ -19,6 +19,12 @@
 
 Upload  `..\Steam\steamapps\common\Team Fortress 2\tf\custom` 
 
+### Workshop
+
+* [Mastercoms mastercomfig](https://github.com/mastercoms/mastercomfig)
+
+Upload  `..\Steam\steamapps\common\Team Fortress 2\tf\workshop` 
+
 ### Script
 
 * [surfaceproperties.txt](http://drok-radnik.com/junk/surfaceproperties.txt) , last update Oct 9th, 2016 
