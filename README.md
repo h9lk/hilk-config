@@ -23,7 +23,7 @@ Upload  `..\Steam\steamapps\common\Team Fortress 2\tf\custom`
 
 * [Mastercoms mastercomfig](https://github.com/mastercoms/mastercomfig)
 
-Upload  `..\Steam\steamapps\common\Team Fortress 2\tf\workshop` 
+Upload  `..\Steam\steamapps\common\Team Fortress 2\tf\custom\workshop` 
 
 ### Script
 
