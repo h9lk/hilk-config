@@ -5,7 +5,7 @@
 ## VPK
 
 ### Script
-* [surfaceproperties.txt](http://drok-radnik.com/junk/surfaceproperties.txt) , last update Oct 9th, 2016 
+* [surfaceproperties.txt](http://drok-radnik.com/junk/surfaceproperties.txt)
 
 ### CFG
 * [Max FPS for High Quality PCs](http://www.teamfortress.tv/25328/comanglias-config-fps-guide)
