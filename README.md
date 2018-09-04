@@ -1,6 +1,19 @@
 # TF2CFG
 [Comanglia's toaster cfg](http://www.teamfortress.tv/25328/comanglia-s-config-fps-guide) with my changes
 
+
+### VPK
+
+## Script
+* [surfaceproperties.txt](http://drok-radnik.com/junk/surfaceproperties.txt) , last update Oct 9th, 2016 
+
+## CFG
+* [Max FPS for High Quality PCs](http://www.teamfortress.tv/25328/comanglias-config-fps-guide)
+
+## UI
+* [Quake hitsound](https://gamebanana.com/sounds/20613)
+
+
 ### Installation
 
 1. Download tf2cfg by clicking `Download ZIP` from the green `Clone or download` button
@@ -8,7 +21,7 @@
 3. Extract files `tf2cfg` from the ZIP file to the `tf` folder 
 
 ### Steam launch options 
--high -w 1024 -h 768  -novid +exec autoexec.cfg -noforcemaccel -noforcemspd -useforcedmparms
+-dxlevel 81 -w 1024 -h 768 -novid -high
 
 [Read about options](https://developer.valvesoftware.com/wiki/Command_Line_Options#Steam_.28Windows.29)
 
@@ -18,15 +31,3 @@
 * [No explosion smoke script](http://www.teamfortress.tv/25647/no-explosion-smoke-script)
 
 Upload  `..\Steam\steamapps\common\Team Fortress 2\tf\custom` 
-
-### Workshop
-
-* [Mastercoms mastercomfig](https://github.com/mastercoms/mastercomfig)
-
-Upload  `..\Steam\steamapps\common\Team Fortress 2\tf\custom\workshop` 
-
-### Script
-
-* [surfaceproperties.txt](http://drok-radnik.com/junk/surfaceproperties.txt) , last update Oct 9th, 2016 
-
-Upload  `..Steam\steamapps\common\Team Fortress 2\tf\scripts`
