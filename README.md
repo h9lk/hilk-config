@@ -4,13 +4,13 @@
 
 ### VPK
 
- :white_check_mark: #### Script
+ :white_check_mark: ####Script
 * [surfaceproperties.txt](http://drok-radnik.com/junk/surfaceproperties.txt)
 
- :white_check_mark: #### CFG
+ :white_check_mark: ####CFG
 * [Max FPS for High Quality PCs](http://www.teamfortress.tv/25328/comanglias-config-fps-guide)
 
- :white_check_mark: #### UI
+ :white_check_mark: ####UI
 * [Quake hitsound](https://gamebanana.com/sounds/20613)
 
 
