@@ -3,7 +3,7 @@
 ### VPK
 
 #### :white_check_mark: Script
-* [surfaceproperties.txt](http://drok-radnik.com/junk/surfaceproperties.txt)
+* [Surfaceproperties.txt](http://drok-radnik.com/junk/surfaceproperties.txt)
 * [No explosion smoke script (Original by MAD76)](http://www.teamfortress.tv/25647/no-explosion-smoke-script)
 
 #### :white_check_mark: CFG
@@ -31,4 +31,5 @@
 Upload  `..\Steam\steamapps\common\Team Fortress 2\tf\custom` 
 
 ### Guide
+
 * [Comanglia's toaster cfg](http://www.teamfortress.tv/25328/comanglia-s-config-fps-guide) with my changes
