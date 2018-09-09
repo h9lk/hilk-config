@@ -1,6 +1,4 @@
 # TF2CFG
-[Comanglia's toaster cfg](http://www.teamfortress.tv/25328/comanglia-s-config-fps-guide) with my changes
-
 
 ### VPK
 
@@ -31,3 +29,6 @@
 * [Nohat-effects](https://github.com/xJeebsx/Headsfeet) or [NoHatMod](https://github.com/xJeebsx/No-Hats-Mod)
 
 Upload  `..\Steam\steamapps\common\Team Fortress 2\tf\custom` 
+
+### Guide
+* [Comanglia's toaster cfg](http://www.teamfortress.tv/25328/comanglia-s-config-fps-guide) with my changes
