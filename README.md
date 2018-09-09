@@ -6,6 +6,7 @@
 
 #### :white_check_mark: Script
 * [surfaceproperties.txt](http://drok-radnik.com/junk/surfaceproperties.txt)
+* [No explosion smoke script (Original by MAD76)](http://www.teamfortress.tv/25647/no-explosion-smoke-script)
 
 #### :white_check_mark: CFG
 * [Max FPS for High Quality PCs](http://www.teamfortress.tv/25328/comanglias-config-fps-guide)
@@ -28,6 +29,5 @@
 ### Custom
 
 * [Nohat-effects](https://github.com/xJeebsx/Headsfeet) or [NoHatMod](https://github.com/xJeebsx/No-Hats-Mod)
-* [No explosion smoke script](http://www.teamfortress.tv/25647/no-explosion-smoke-script)
 
 Upload  `..\Steam\steamapps\common\Team Fortress 2\tf\custom` 
