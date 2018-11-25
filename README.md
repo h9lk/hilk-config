@@ -2,14 +2,14 @@
 
 ### VPK
 
-#### :white_check_mark: Script
+#### Script
 * [Surfaceproperties.txt](http://drok-radnik.com/junk/surfaceproperties.txt)
 * [No explosion smoke script (Original by MAD76)](http://www.teamfortress.tv/25647/no-explosion-smoke-script)
 
-#### :white_check_mark: CFG
+#### CFG
 * [Max FPS for High Quality PCs](http://www.teamfortress.tv/25328/comanglias-config-fps-guide)
 
-#### :white_check_mark: UI
+#### UI
 * [Quake hitsound](https://gamebanana.com/sounds/20613)
 
 
