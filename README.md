@@ -1,5 +1,3 @@
-# TF2CFG
-
 ### VPK
 
 #### Script
