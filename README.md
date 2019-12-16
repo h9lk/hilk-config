@@ -3,7 +3,7 @@
 ### VPK
 
 #### Script
-* [Surfaceproperties.txt](http://drok-radnik.com/junk/surfaceproperties.txt)
+* [Surfaceproperties.txt](https://pastebin.com/tr9RTVcM)
 * [No explosion smoke script (Original by MAD76)](http://www.teamfortress.tv/25647/no-explosion-smoke-script)
 
 #### CFG
