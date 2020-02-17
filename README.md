@@ -33,3 +33,5 @@ Upload  `..\Steam\steamapps\common\Team Fortress 2\tf\custom`
 ### Guide
 
 * [Comanglia's toaster cfg](http://www.teamfortress.tv/25328/comanglia-s-config-fps-guide) with my changes
+
+https://i.imgur.com/h0ue6vL.png
