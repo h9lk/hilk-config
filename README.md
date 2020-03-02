@@ -20,7 +20,7 @@
 3. Extract files `tf2cfg` from the ZIP file to the `tf` folder 
 
 ### Steam launch options 
--dxlevel 81 -w 1024 -h 768 -novid -high
+```-dxlevel 81 -w 1024 -h 768 -novid -high```
 
 [Read about options](https://developer.valvesoftware.com/wiki/Command_Line_Options#Steam_.28Windows.29)
 
