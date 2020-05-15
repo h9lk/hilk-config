@@ -7,7 +7,7 @@
 * [No explosion smoke script (Original by MAD76)](http://www.teamfortress.tv/25647/no-explosion-smoke-script)
 
 #### CFG
-* [Max FPS for High Quality PCs](http://www.teamfortress.tv/25328/comanglias-config-fps-guide)
+* Comanglia's "Toaster" config
 
 #### UI
 * [Quake hitsound](https://gamebanana.com/sounds/20613)
