@@ -20,13 +20,14 @@
 3. Extract files `tf2cfg` from the ZIP file to the `tf` folder 
 
 ### Steam launch options 
-`-dxlevel 81 -w 1024 -h 768 -novid -high`
+`-w 1024 -h 768 -novid -high`
 
 [Read about options](https://developer.valvesoftware.com/wiki/Command_Line_Options#Steam_.28Windows.29)
 
 ### Custom
 
-* [Nohat-effects](https://github.com/xJeebsx/Headsfeet) or [NoHatMod](https://github.com/xJeebsx/No-Hats-Mod)
+* [No hats bgum](https://github.com/Fedora31/no-hats-bgum/blob/master/no_hats_bgum.vpk)
+* [Flaw hud](https://github.com/CriticalFlaw/FlawHUD)
 
 Upload  `..\Steam\steamapps\common\Team Fortress 2\tf\custom` 
 
