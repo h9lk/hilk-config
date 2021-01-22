@@ -27,6 +27,7 @@
 ### Custom
 
 * [HeadsFeet v2020.10.22](https://www.teamfortress.tv/56398/no-hats-mod-headsfeet-2020-edition)
+* [Mastercomfig flat mouse addon](https://github.com/mastercomfig/mastercomfig/releases/latest/download/mastercomfig-flat-mouse-addon.vpk)
 * [aHud](https://github.com/n0kk/ahud)
 
 Upload  `..\Steam\steamapps\common\Team Fortress 2\tf\custom` 
