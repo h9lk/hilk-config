@@ -20,13 +20,14 @@
 3. Extract files `tf2cfg` from the ZIP file to the `tf` folder 
 
 ### Steam launch options 
-` -w 1024 -h 768  -novid -nojoy -nosteamcontroller -nohltv -particles 1 -high`
+` -w 1024 -h 768 -novid -high`
 
 [Read about options](https://developer.valvesoftware.com/wiki/Command_Line_Options#Steam_.28Windows.29)
 
 ### Custom
 
 * [HeadsFeet v2020.10.22](https://www.teamfortress.tv/56398/no-hats-mod-headsfeet-2020-edition)
+* [Mastercomfig flat mouse addon](https://github.com/mastercomfig/mastercomfig/releases/latest/download/mastercomfig-flat-mouse-addon.vpk)
 * [aHud](https://github.com/n0kk/ahud)
 
 Upload  `..\Steam\steamapps\common\Team Fortress 2\tf\custom` 
