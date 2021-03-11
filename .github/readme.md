@@ -1,11 +1,12 @@
 # Cfg for TF2
 
 ### Config settings
-*[Core folder](./custom/cfg/config)
-    * [Graphic](./custom/cfg/config/gfx.cfg)
-    * [TF2](./custom/cfg/config/settings.cfg)
-    * [Lerp](./custom/cfg/config/network.cfg)
-    * [Binds](./custom/cfg/config/binds.cfg)
+
+* [Core folder](../custom/cfg/config)
+    * [Graphic](../custom/cfg/config/gfx.cfg)
+    * [TF2](../custom/cfg/config/settings.cfg)
+    * [Lerp](../custom/cfg/config/network.cfg)
+    * [Binds](../custom/cfg/config/binds.cfg)
 
 ### VPK
 
