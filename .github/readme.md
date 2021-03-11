@@ -2,11 +2,11 @@
 
 ### Config settings
 
-* [Core folder](../custom/cfg/config)
-    * [Graphic](../custom/cfg/config/gfx.cfg)
-    * [TF2](../custom/cfg/config/settings.cfg)
-    * [Lerp](../custom/cfg/config/network.cfg)
-    * [Binds](../custom/cfg/config/binds.cfg)
+* [Core folder](../custom/optimisation_tf2/cfg/config)
+    * [Graphic](../custom/optimisation_tf2/cfg/config/gfx.cfg)
+    * [TF2](../custom/optimisation_tf2/cfg/config/settings.cfg)
+    * [Lerp](../custom/optimisation_tf2/cfg/config/network.cfg)
+    * [Binds](../custom/optimisation_tf2/cfg/config/binds.cfg)
 
 ### VPK
 
