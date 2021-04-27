@@ -1,12 +1,13 @@
 # Cfg for TF2
 
 ### Config settings
-
-* [Core folder](../custom/optimisation_tf2/cfg/config)
+* [Autoexec](../custom/optimisation_tf2/cfg/autoexec.cfg)
+* [Cfg folder](../custom/optimisation_tf2/cfg/config)
     * [Graphic](../custom/optimisation_tf2/cfg/config/gfx.cfg)
     * [TF2](../custom/optimisation_tf2/cfg/config/settings.cfg)
     * [Lerp](../custom/optimisation_tf2/cfg/config/network.cfg)
     * [Binds](../custom/optimisation_tf2/cfg/config/binds.cfg)
+* [Scripts](../custom/optimisation_tf2/scripts)
 
 ### VPK
 
@@ -15,10 +16,10 @@
 * [No explosion smoke script (Original by MAD76)](http://www.teamfortress.tv/25647/no-explosion-smoke-script)
 
 #### CFG
-* Comanglia's "Toaster" config
+* [Comanglia's "Toaster" config](../custom/optimisation_tf2/cfg/config/gfx.cfg)
 
 #### UI
-* [Quake hitsound](https://gamebanana.com/sounds/20613)
+* [Quake hit/kill sound](../custom/optimisation_tf2/sound/ui/)
 
 
 ### Installation
@@ -28,9 +29,13 @@
 3. Extract files `tf2cfg` from the ZIP file to the `tf` folder 
 
 ### Steam launch options 
-` -w 1024 -h 768 -novid -high`
 
-[Read about options](https://developer.valvesoftware.com/wiki/Command_Line_Options#Steam_.28Windows.29)
+`-novid -nojoy -nosteamcontroller -nohltv -precachefontchars`
+
+* [Mastercoms misconceptions](https://docs.mastercomfig.com/en/latest/tf2/misconceptions/)
+   * [Mastercoms launch options](https://docs.mastercomfig.com/en/latest/customization/launch_options/)
+* [Vale about options](https://developer.valvesoftware.com/wiki/Command_Line_Options)
+
 
 ### Custom
 
