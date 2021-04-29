@@ -34,7 +34,7 @@
 
 * [Mastercoms misconceptions](https://docs.mastercomfig.com/en/latest/tf2/misconceptions/)
    * [Mastercoms launch options](https://docs.mastercomfig.com/en/latest/customization/launch_options/)
-* [Vale about options](https://developer.valvesoftware.com/wiki/Command_Line_Options)
+* [Valve about options](https://developer.valvesoftware.com/wiki/Command_Line_Options)
 
 
 ### Custom
