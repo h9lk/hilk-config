@@ -30,7 +30,7 @@
 
 ### Steam launch options 
 
-`-novid -nojoy -nosteamcontroller -nohltv -precachefontchars`
+`-novid -nojoy -nosteamcontroller -nohltv`
 
 * [Mastercoms misconceptions](https://docs.mastercomfig.com/en/latest/tf2/misconceptions/)
    * [Mastercoms launch options](https://docs.mastercomfig.com/en/latest/customization/launch_options/)
@@ -40,6 +40,7 @@
 ### Custom
 
 * [HeadsFeet v2020.10.22](https://www.teamfortress.tv/56398/no-hats-mod-headsfeet-2020-edition)
+* [Np heal sound](https://gamebanana.com/sounds/53554)
 * [Mastercomfig flat mouse addon](https://github.com/mastercomfig/mastercomfig/releases/latest/download/mastercomfig-flat-mouse-addon.vpk)
 * [aHud](https://github.com/n0kk/ahud)
 
