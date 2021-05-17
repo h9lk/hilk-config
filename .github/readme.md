@@ -40,7 +40,7 @@
 ### Custom
 
 * [HeadsFeet v2020.10.22](https://www.teamfortress.tv/56398/no-hats-mod-headsfeet-2020-edition)
-* [Np heal sound](https://gamebanana.com/sounds/53554)
+* [No heal sound](https://gamebanana.com/sounds/53554)
 * [Mastercomfig flat mouse addon](https://github.com/mastercomfig/mastercomfig/releases/latest/download/mastercomfig-flat-mouse-addon.vpk)
 * [aHud](https://github.com/n0kk/ahud)
 
