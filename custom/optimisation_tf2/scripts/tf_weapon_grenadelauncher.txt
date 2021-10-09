@@ -32,9 +32,10 @@ WeaponData
 	"bucket_position"	"0"
 	
 	"ExplosionSound"	"Weapon_Grenade_Pipebomb.Explode"
-	"ExplosionEffect"		"ExplosionCore_sapperdestroyed"
-	"ExplosionPlayerEffect"		"ExplosionCore_sapperdestroyed"
-	"ExplosionWaterEffect"		"ExplosionCore_sapperdestroyed"
+	"ExplosionEffect"	"ExplosionCore_sapperdestroyed"
+	"ExplosionPlayerEffect"	"ExplosionCore_sapperdestroyed"
+	"ExplosionWaterEffect"	"ExplosionCore_sapperdestroyed"
+
 
 	// Animation.
 	"viewmodel"		"models/weapons/v_models/v_grenadelauncher_demo.mdl"

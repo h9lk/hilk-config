@@ -32,9 +32,10 @@ WeaponData
 	"bucket_position"	"0"
 	
 	"ExplosionSound"	"Weapon_LooseCannon.Explode"
-	"ExplosionEffect"		"ExplosionCore_sapperdestroyed"
-	"ExplosionPlayerEffect"		"ExplosionCore_sapperdestroyed"
-	"ExplosionWaterEffect"		"ExplosionCore_sapperdestroyed"
+	"ExplosionEffect"	"ExplosionCore_sapperdestroyed"
+	"ExplosionPlayerEffect"	"ExplosionCore_sapperdestroyed"
+	"ExplosionWaterEffect"	"ExplosionCore_sapperdestroyed"
+
 
 	// Animation.
 	"viewmodel"		"models/weapons/v_models/v_grenadelauncher_demo.mdl"
@@ -42,7 +43,7 @@ WeaponData
 	"anim_prefix"		"gl"
 
 	// Muzzleflash
-	"MuzzleFlashParticleEffect" "muzzle_grenadelauncher"
+	"MuzzleFlashParticleEffect" ""
 
 	// Sounds.
 	// Max of 16 per category (ie. max 16 "single_shot" sounds).

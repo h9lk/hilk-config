@@ -29,8 +29,8 @@ WeaponData
 
 	// Buckets.
 	"bucket"		"0"
-	"bucket_position"	"0"
-	
+	"bucket_position"	"0"	
+
 	"ExplosionEffect"		"ExplosionCore_sapperdestroyed"
 	"ExplosionPlayerEffect"		"ExplosionCore_sapperdestroyed"
 	"ExplosionWaterEffect"		"ExplosionCore_sapperdestroyed"
